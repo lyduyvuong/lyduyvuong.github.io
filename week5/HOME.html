@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Thông tin sinh viên</title>
+<style type="text/css">
+.ProductDetails {display: none;}
+.Product img {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 10px #aaa;
+}
+.ProductName {font-weight: bold;}
+.ProductID {font-style: italic;}
+.ProductID:before {content: " - ";}
+.Product {
+    text-align: center;
+    width: 150px;
+    margin: 0px 20px;
+    float: left;
+    cursor: pointer;
+}
+.Product:hover .ProductDetails {display: block;}
+</style>
+</head>
+<body>
+<div>
+    <div class="Product">
+        <img src="./field-3123271_640.jpg" />
+        <div class="ProductDetails">
+            <span class="ProductName">Ly Duy Vuong</span>
+            <span class="ProductID">23070168</span>
+        </div>
+    </div>
+    <div class="Product">
+        <img src="./download (1).jpg" />
+        <div class="ProductDetails">
+            <span class="ProductName">Long Thanh</span>
+            <span class="ProductID">23070179</span>
+        </div>
+    </div>
+    <div class="Product">
+        <img src="./download.jpg" />
+        <div class="ProductDetails">
+            <span class="ProductName">Minh Tuan</span>
+            <span class="ProductID">23070979</span>
+        </div>
+    </div>
+</div>
+</body>
+</html>

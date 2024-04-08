@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<!-- main -->
+<main>
+  <div class="card">
+    <img src=""/>
+    <h4>‘Photographer’ Isn’t About Photography at All</h4>
+    <div class="">
+      <p>BBC News</p>
+      <p>06-04-204</p>
+    </div>
+    <div class="desc">
+      National Geographic’s new show, “Photographer,” doesn’t bother itself with analyzing images.
+      It’s all about the drive it takes to find the ideal shot.
+    </div>
+    <div class="card">
+      <img src=""/>
+      <h4>‘Photographer’ Isn’t About Photography at All</h4>
+      <div class="">
+        <p>BBC News</p>
+        <p>06-04-204</p>
+      </div>
+      <div class="desc">
+        National Geographic’s new show, “Photographer,” doesn’t bother itself with analyzing images.
+        It’s all about the drive it takes to find the ideal shot.
+      </div>
+      <div class="card">
+        <img src=""/>
+        <h4>‘Photographer’ Isn’t About Photography at All</h4>
+        <div class="">
+          <p>BBC News</p>
+          <p>06-04-204</p>
+        </div>
+        <div class="desc">
+          National Geographic’s new show, “Photographer,” doesn’t bother itself with analyzing images.
+          It’s all about the drive it takes to find the ideal shot.
+        </div>
+  </div>
+</main>
+</html>
